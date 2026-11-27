@@ -4,9 +4,16 @@
 
 **Участники группы:** Alikhan, Atabek, Aknazar, Adil, Amir.
 
-## Скачать презентацию
-- [Ma_vie_Passe_Compose.pptx](./Ma_vie_Passe_Compose.pptx) — готовая презентация PowerPoint (11 слайдов: теория, список глаголов *La Maison d'Être*, правило согласования, полные истории всех 5 участников с персональными иллюстрациями, упражнение для класса и ответы *Corrigé*).
-- Прямая ссылка на скачивание: https://github.com/graz1p777dev/ma-vie-presentation/raw/main/Ma_vie_Passe_Compose.pptx
+## Скачать презентацию (3 формата — 12 слайдов)
+1. **PowerPoint (`.pptx`)** — редактируемая презентация:
+   - [Ma_vie_Passe_Compose.pptx](./Ma_vie_Passe_Compose.pptx)
+   - Прямая ссылка: https://github.com/graz1p777dev/ma-vie-presentation/raw/main/Ma_vie_Passe_Compose.pptx
+2. **PDF с фото и текстом поверх них (выделяемый текст):**
+   - [Ma_vie_with_text.pdf](./Ma_vie_with_text.pdf)
+   - Прямая ссылка: https://github.com/graz1p777dev/ma-vie-presentation/raw/main/Ma_vie_with_text.pdf
+3. **PDF чисто из фотографий слайдов (текст впечён в картинки, шрифты никогда не слетят):**
+   - [Ma_vie_images_only.pdf](./Ma_vie_images_only.pdf)
+   - Прямая ссылка: https://github.com/graz1p777dev/ma-vie-presentation/raw/main/Ma_vie_images_only.pdf
 
 ---
 
