@@ -4,9 +4,9 @@
 
 **Участники группы:** Alikhan, Atabek, Aknazar, Adil, Amir.
 
-## Файлы презентации
-- [Ma_vie_Passe_Compose.pptx](./Ma_vie_Passe_Compose.pptx) — редактируемая презентация PowerPoint (12 слайдов: теория, список глаголов *La Maison d'Être*, правило согласования, истории всех 5 участников, упражнение для класса и ответы *Corrigé*).
-- [Ma_vie_Passe_Compose.pdf](./Ma_vie_Passe_Compose.pdf) — PDF-версия из растровых изображений слайдов (12 страниц, 2667×1500, без текстового слоя — не слетают шрифты и вёрстка на любом компьютере или телефоне).
+## Скачать презентацию
+- [Ma_vie_Passe_Compose.pptx](./Ma_vie_Passe_Compose.pptx) — готовая презентация PowerPoint (11 слайдов: теория, список глаголов *La Maison d'Être*, правило согласования, полные истории всех 5 участников с персональными иллюстрациями, упражнение для класса и ответы *Corrigé*).
+- Прямая ссылка на скачивание: https://github.com/graz1p777dev/ma-vie-presentation/raw/main/Ma_vie_Passe_Compose.pptx
 
 ---
 
@@ -16,23 +16,23 @@
 - **Bonjour à tous ! Aujourd'hui, notre groupe présente le thème « Ma vie » au passé composé avec le verbe « être ».**
   *Бонжу́р а тус! Ожурдюи́, нотр груп преза́нт лё тэм «Ма ви» о пасэ́ композэ́ авэ́к лё вэрб «этр».*
 
-### Alikhan (Слайды 5–6)
-1. **Je suis né le vingt-quatre janvier deux mille douze à Bichkek, la belle capitale du Kirghizistan.**
-   *Жё сюи нэ лё вэн-ка́тр жанвье́ дё миль дуз а Бишке́к, ля бэль капита́ль дю Киргизиста́н.*
-2. **En deux mille dix-huit, je suis entré à l'école primaire avec beaucoup de curiosité et d'enthousiasme.**
-   *Ан дё миль диз-юи́т, жё сюиз антрэ́ а леко́ль примэ́р авэ́к боку́ дё кюрьёзитэ́ э дантузиа́зм.*
-3. **À trois ou quatre ans, mon rêve de devenir cosmonaute est apparu, puis l'envie de devenir médecin est venue grâce à ma sœur étudiante en médecine.**
-   *А труа́ у ка́тр ан, мон рэв дё дёвёни́р космоно́т эт апарю́, пюи́ ланви́ дё дёвёни́р мэдсэ́н э вёню́ грас а ма сёр этюдья́нт ан мэдси́н.*
-4. **Plus tard, je suis devenu programmeur, mais à cause de l'IA, je suis revenu à mon rêve de devenir médecin !**
-   *Плю тар, жё сюи дёвёню́ програмёр, мэ а коз дё ль-и-а́, жё сюи рёвёню́ а мон рэв дё дёвёни́р мэдсэ́н!*
-5. **Il y a cinq ans, ma petite nièce est apparue dans notre famille : grâce à moi, elle est devenue une vraie joueuse de Minecraft dès trois ans et de Roblox !**
-   *Иль я сэнк ан, ма пёти́т ньес эт апарю́ дан нотр фами́й: грас а муа́, эль э дёвёню́ юн врэ жуёз дё Майнкра́фт дэ труа́з ан э дё Ро́блокс!*
-6. **Chaque été, je suis parti au lac Issyk-Koul et je suis resté là-bas pendant trois longs mois.**
-   *Шак этэ́, жё сюи парти́ о ляк Иссы́к-Куль э жё сюи рэстэ́ ля-ба́ панда́н труа́ лон муа́.*
-7. **Un jour, je suis monté au sommet d'une montagne de deux mille quatre-vingts mètres face au lac, puis je suis rentré à Bichkek plein de souvenirs !**
-   *Эн жур, жё сюи монтэ́ о сомэ́ дюн монта́нь дё дё миль катр-вэн мэтр фас о ляк, пюи́ жё сюи рантрэ́ а Бишке́к плэн дё сувёни́р!*
+---
 
-### Atabek (Слайд 7)
+### 1. Alikhan (Слайд 5)
+1. **Je suis né le vingt-quatre janvier deux mille douze à Bichkek et, en deux mille dix-huit, je suis entré à l'école primaire.**
+   *Жё сюи нэ лё вэн-ка́тр жанвье́ дё миль дуз а Бишке́к э, ан дё миль диз-юи́т, жё сюиз антрэ́ а леко́ль примэ́р.*
+2. **À trois ou quatre ans, mon rêve de devenir cosmonaute est apparu, puis l'envie de devenir médecin est venue grâce à ma sœur étudiante en médecine.**
+   *А труа́ у ка́тр ан, мон рэв дё дёвёни́р космоно́т эт апарю́, пюи́ ланви́ дё дёвёни́р мэдсэ́н э вёню́ грас а ма сёр этюдья́нт ан мэдси́н.*
+3. **Plus tard, je suis devenu programmeur, mais comme l'IA remplace vite les codeurs, je suis revenu à mon rêve de devenir médecin !**
+   *Плю тар, жё сюи дёвёню́ програмёр, мэ ком ль-и-а́ рампля́с вит ле кодёр, жё сюи рёвёню́ а мон рэв дё дёвёни́р мэдсэ́н!*
+4. **Il y a cinq ans, ma petite nièce est apparue : grâce à moi, elle est devenue une vraie joueuse de Minecraft dès trois ans et de Roblox !**
+   *Иль я сэнк ан, ма пёти́т ньес эт апарю́: грас а муа́, эль э дёвёню́ юн врэ жуёз дё Майнкра́фт дэ труа́з ан э дё Ро́блокс!*
+5. **Chaque été, je suis parti au lac Issyk-Koul où je suis resté trois mois ; là-bas, je suis monté sur une montagne de deux mille quatre-vingts mètres, puis je suis rentré à Bichkek !**
+   *Шак этэ́, жё сюи парти́ о ляк Иссы́к-Куль у жё сюи рэстэ́ труа́ муа́; ля-ба́, жё сюи монтэ́ сюр юн монта́нь дё дё миль катр-вэн мэтр, пюи́ жё сюи рантрэ́ а Бишке́к!*
+
+---
+
+### 2. Atabek (Слайд 6)
 1. **Je suis né le quinze octobre deux mille douze à Bichkek, dans une famille chaleureuse.**
    *Жё сюи нэ лё кэнз окто́бр дё миль дуз а Бишке́к, данз юн фами́й шалёрёз.*
 2. **En deux mille seize, je suis entré à l'école et mon rêve de devenir sportif est apparu dès mon enfance.**
@@ -44,43 +44,51 @@
 5. **En été, je suis sorti presque chaque soir pour mon jogging, puis je suis rentré chez moi plein d'énergie !**
    *Ан этэ́, жё сюи сорти́ прэск шак суа́р пур мон джоги́нг, пюи́ жё сюи рантрэ́ шэ муа́ плэн дэнэржи́!*
 
-### Aknazar (Слайд 8)
-1. **Je suis né le quatorze octobre deux mille douze à Bichkek, au Kirghizistan.**
-   *Жё сюи нэ лё като́рз окто́бр дё миль дуз а Бишке́к, о Киргизиста́н.*
-2. **Dans mon enfance, mon rêve de devenir cosmonaute est apparu, puis je suis devenu joueur de volley-ball et monteur vidéo.**
-   *Дан мон анфа́нс, мон рэв дё дёвёни́р космоно́т эт апарю́, пюи́ жё сюи дёвёню́ жуёр дё волебо́ль э монтёр видэо́.*
-3. **Deux petits frères sont apparus dans notre famille, et mon premier meilleur ami est arrivé dans ma vie en première classe.**
-   *Дё пёти́ фрэр сонт апарю́ дан нотр фами́й, э мон прёмье́ мэйёр ами́ эт аривэ́ дан ма ви ан прёмье́р кляс.*
-4. **Je suis entré à l'école très jeune, et plus tard je suis parti à Moscou où je suis revenu plus de trois fois.**
-   *Жё сюиз антрэ́ а леко́ль трэ жён, э плю тар жё сюи парти́ а Моску́ у жё сюи рёвёню́ плю дё труа́ фуа́.*
-5. **Là-bas, je suis allé dans un grand océanarium pour la première fois, puis je suis rentré à Bichkek très impressionné !**
-   *Ля-ба́, жё сюиз алэ́ данз эн грант осэанарьо́м пур ля прёмье́р фуа́, пюи́ жё сюи рантрэ́ а Бишке́к трэз эмпрэсьёнэ́!*
+---
 
-### Adil (Слайд 9)
-1. **Je suis né en deux mille douze au Kirghizistan, où j'habite toujours aujourd'hui.**
-   *Жё сюи нэ ан дё миль дуз о Киргизиста́н, у жаби́т тужу́р ожурдюи́.*
-2. **À sept ans, je suis allé à l'école pour la première fois et je suis entré dans une nouvelle étape de ma vie.**
-   *А сэт ан, жё сюиз алэ́ а леко́ль пур ля прёмье́р фуа́ э жё сюиз антрэ́ данз юн нувэ́ль эта́п дё ма ви.*
-3. **Petit, mon rêve de devenir footballeur est apparu, mais aujourd'hui l'envie de devenir programmeur est venue.**
-   *Пёти́, мон рэв дё дёвёни́р футбалёр эт апарю́, мэ ожурдюи́ ланви́ дё дёвёни́р програмёр э вёню́.*
-4. **Dans ma vie, de très bons amis sont arrivés et nous sommes devenus une vraie équipe !**
-   *Дан ма ви, дё трэ бонз ами́ сонт аривэ́ э ну сом дёвёню́ юн врэ эки́п!*
-5. **Souvent, je suis sorti jouer au football avec mes amis, puis nous sommes rentrés heureux à la maison.**
-   *Сува́н, жё сюи сорти́ жуэ́ о футбо́ль авэ́к мэз ами́, пюи́ ну сом рантрэ́ ёрё а ля мэзо́н.*
+### 3. Aknazar (Слайд 7)
+1. **Je suis né le quatorze octobre deux mille douze à Bichkek, la capitale du Kirghizistan.**
+   *Жё сюи нэ лё като́рз окто́бр дё миль дуз а Бишке́к, ля капита́ль дю Киргизиста́н.*
+2. **Dans mon enfance, mon rêve de devenir cosmonaute est apparu, puis je suis devenu volleyeur et monteur vidéo !**
+   *Дан мон анфа́нс, мон рэв дё дёвёни́р космоно́т эт апарю́, пюи́ жё сюи дёвёню́ волэёр э монтёр видэо́!*
+3. **Deux petits frères sont apparus dans ma famille, et mon premier meilleur ami est apparu dès la première classe.**
+   *Дё пёти́ фрэр сонт апарю́ дан ма фами́й, э мон прёмье́ мэйёр ами́ эт апарю́ дэ ля прёмье́р кляс.*
+4. **Je suis entré à l'école et, pendant les vacances, je suis parti à Moscou où je suis retourné plus de trois fois.**
+   *Жё сюиз антрэ́ а леко́ль э, панда́н ле вака́нс, жё сюи парти́ а Моску́ у жё сюи рётурнэ́ плю дё труа́ фуа́.*
+5. **À Moscou, je suis allé pour la première fois dans un grand océanarium, puis je suis rentré à Bichkek très impressionné !**
+   *А Моску́, жё сюиз алэ́ пур ля прёмье́р фуа́ данз эн грант осэанарьо́м, пюи́ жё сюи рантрэ́ а Бишке́к трэз эмпрэсьонэ́!*
 
-### Amir (Слайд 10)
-1. **Je suis né le neuf janvier deux mille douze à Bichkek, au pied des montagnes.**
-   *Жё сюи нэ лё нёф жанвье́ дё миль дуз а Бишке́к, о пье дэ монта́нь.*
-2. **Dans mon enfance, mon rêve de devenir gamer est apparu et je suis devenu un grand fan de jeux vidéo.**
-   *Дан мон анфа́нс, мон рэв дё дёвёни́р гэймэ́р эт апарю́ э жё сюи дёвёню́ эн гран фан дё жё видэо́.*
-3. **Un jour, mon meilleur ami est arrivé dans ma vie et nous sommes restés très proches depuis ce moment.**
-   *Эн жур, мон мэйёр ами́ эт аривэ́ дан ма ви э ну сом рэстэ́ трэ прош дёпюи́ сё мома́н.*
-4. **En vacances, je suis monté dans les montagnes, mais un jour je suis tombé de vélo en descendant !**
-   *Ан вака́нс, жё сюи монтэ́ дан ле монта́нь, мэ эн жур жё сюи томбэ́ дё вэло́ ан дэсанда́н!*
-5. **Souvent, je suis sorti jouer au football avec mes amis, puis je suis rentré chez moi fatigué mais content.**
-   *Сува́н, жё сюи сорти́ жуэ́ о футбо́ль авэ́к мэз ами́, пюи́ жё сюи рантрэ́ шэ муа́ фатигэ́ мэ конта́н.*
+---
 
-### Финал (Слайды 11–12)
+### 4. Adil (Слайд 8)
+1. **Je suis né en deux mille douze au Kirghizistan et je suis resté vivre dans mon beau pays natal.**
+   *Жё сюи нэ ан дё миль дуз о Киргизиста́н э жё сюи рэстэ́ вивр дан мон бо пэи́ ната́ль.*
+2. **À l'âge de sept ans, je suis entré à l'école pour commencer une nouvelle étape de ma vie.**
+   *А ляж дё сэт ан, жё сюиз антрэ́ а леко́ль пур комансэ́ юн нувэ́ль эта́п дё ма ви.*
+3. **Dans mon enfance, mon rêve de devenir footballeur est apparu, mais aujourd'hui l'envie de devenir programmeur est venue !**
+   *Дан мон анфа́нс, мон рэв дё дёвёни́р футболёр эт апарю́, мэ ожурдюи́ ланви́ дё дёвёни́р програмёр э вёню́!*
+4. **De très bons amis sont apparus dans ma vie et nous sommes devenus une vraie équipe.**
+   *Дё трэ бонз ами́ сонт апарю́ дан ма ви э ну сом дёвёню́ юн врэ эки́п.*
+5. **Chaque week-end, je suis sorti jouer au football et je suis passé chez mes amis pour partager de bons moments.**
+   *Шак уик-э́нд, жё сюи сорти́ жуэ́ о футбо́ль э жё сюи пасэ́ шэ мэз ами́ пур партажэ́ дё бон мома́н.*
+
+---
+
+### 5. Amir (Слайд 9)
+1. **Je suis né le neuf janvier deux mille douze à Bichkek, au pied des montagnes du Kirghizistan.**
+   *Жё сюи нэ лё нёф жанвье́ дё миль дуз а Бишке́к, о пье дэ монта́нь дю Киргизиста́н.*
+2. **Dans mon enfance, mon grand rêve de devenir gamer est apparu, et je suis devenu un vrai passionné de jeux vidéo.**
+   *Дан мон анфа́нс, мон гран рэв дё дёвёни́р гэймёр эт апарю́, э жё сюи дёвёню́ эн врэ пасьонэ́ дё жё видэо́.*
+3. **Un jour, mon meilleur ami est apparu dans ma vie et nous sommes allés souvent jouer au football ensemble.**
+   *Эн жур, мон мэйёр ами́ эт апарю́ дан ма ви э ну сомз алэ́ сува́н жуэ́ о футбо́ль анса́мбль.*
+4. **Pendant les vacances, je suis parti dans les montagnes et je suis monté très haut pour admirer la nature.**
+   *Панда́н ле вака́нс, жё сюи парти́ дан ле монта́нь э жё сюи монтэ́ трэ о пур адмирэ́ ля натю́р.*
+5. **Une fois, je suis tombé de mon vélo pendant une promenade, mais je suis rentré chez moi avec le sourire !**
+   *Юн фуа́, жё сюи томбэ́ дё мон вэло́ панда́н юн промна́д, мэ жё сюи рантрэ́ шэ муа́ авэ́к лё сури́р!*
+
+---
+
+### Финал (Слайды 10–11)
 - **Maintenant, un petit exercice pour la classe ! Complétez les phrases au passé composé avec « être ».**
   *Мэнтна́н, эн пёти́ экзэрси́с пур ля кляс! Комплэтэ́ ле фраз о пасэ́ композэ́ авэ́к «этр».*
 - **Merci beaucoup pour votre attention !**
